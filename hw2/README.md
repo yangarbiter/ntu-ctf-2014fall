@@ -10,3 +10,7 @@ Use op code popa and check only half of the bits in key could shorten 1 byte eac
 Alternative way: search for string "FLAG" in whole heap from the head of linked-list. (14 bytes)
 
 Source code: traverse.s
+
+###0x02 - Flag in the Prime (Tag: Crypto)
+Source: pfrliamge.py
+
